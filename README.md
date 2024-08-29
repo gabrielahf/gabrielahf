@@ -4,14 +4,14 @@
 
 - 👨‍💻  Exploring new technologies and developing software solutions.
 - 🎓 Software Engineering student at the Pontifical Catholic University of Rio Grande do Sul (PUCRS).
-- 💼 Searching for opportunity
+- 💼 Searching for opportunity.
 - 🌱 Improving myself in mobile applications.
 
 ## My Skills
 
 **Applications and data**
 
-![gabrielahf](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahf&layout=compact)
+[![gabrielahf](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Operating Systems**
