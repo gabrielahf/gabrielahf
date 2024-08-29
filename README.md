@@ -11,7 +11,7 @@
 
 **Applications and data**
 
-[![gabrielahf](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![gabrielahf](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahf&layout=compact)
 
 
 **Operating Systems**
