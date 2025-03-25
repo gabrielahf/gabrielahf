@@ -4,7 +4,7 @@
 
 - 👨‍💻  Exploring new technologies and developing software solutions.
 - 🎓 Software Engineering student at the Pontifical Catholic University of Rio Grande do Sul (PUCRS).
-- 💼 Searching for opportunity.
+- 💼 LIS (HP/PUCRS)
 - 🌱 Improving myself in frontend applications.
 
 ## My Skills
