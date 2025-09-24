@@ -40,11 +40,4 @@ Find me at [LinkedIn](https://www.linkedin.com/in/gabrielaroxo/) or <a href="mai
 
 
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/gabrielahf/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
 
