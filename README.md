@@ -1,6 +1,6 @@
 # Hi, I'm Gabriela Hoffmann Roxo 👋
 
-Software Engineering student at PUCRS (Porto Alegre, Brazil · expected Dec 2027) and software developer intern at SR Consulting, working remotely. Front-end and mobile development with React Native and TypeScript, with interest in AI, data science and UX.
+Software Engineering student at PUCRS (Porto Alegre, Brazil) and software developer intern at SR Consulting, working remotely. Front-end and mobile development with React Native and TypeScript, with interest in AI, data science and UX.
 
 - 💼 **Software Developer Intern @ SR Consulting** (2026 – present): React Native app integrated with Salesforce; Apex, LWC, SOQL and REST APIs
 - 📱 **Software Developer Intern @ LIS (HP / PUCRS)** (2025 – 2026): front-end of Vennus, a React Native app for the Society of Women Engineers, presented at SWE's WE25 conference in New Orleans
